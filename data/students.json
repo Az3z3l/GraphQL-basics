@@ -1,0 +1,106 @@
+[
+  {
+    "id": "S1001",
+    "email": "dr.ross@gmal.com",
+    "firstName": "Ross",
+    "lastName": "Geller",
+    "password": "pass123",
+    "collegeId": "col-102"
+  },
+  {
+    "id": "S1002",
+    "email": "rodoodododooo@gmail.com",
+    "firstName": "Andy",
+    "lastName": "Bernard",
+    "password": "pass123",
+    "collegeId": "col-101"
+  },
+  {
+    "id": "S1003",
+    "email": "leviosaa@gmail.com",
+    "firstName": "Hermoine",
+    "lastName": "Granger",
+    "password": "pass123",
+    "collegeId": "col-103"
+  },
+  {
+    "id": "S1004",
+    "email": "geniusc00p3r@gmail.com",
+    "firstName": "Sheldon",
+    "lastName": "Cooper",
+    "collegeId": "col-104",
+    "password": "henlo"
+  },
+  {
+    "id": "S1005",
+    "email": "iDeserveLily@gmail.com",
+    "firstName": "Severes",
+    "lastName": "Snape",
+    "password": "pass123",
+    "collegeId": "col-103"
+  },
+  {
+    "id": "S1006",
+    "email": "i.hate.joker@gmail.com",
+    "firstName": "Batman",
+    "lastName": "the dark knight",
+    "password": "pass123",
+    "collegeId": "col-102"
+  },
+  {
+    "id": "S1007",
+    "email": "temporary@gaml.fon",
+    "firstName": "temp",
+    "lastName": "guy",
+    "collegeId": "col-102",
+    "password": "ohyeaaaaaaaah"
+  },
+  {
+    "id": "ry0K12oc8",
+    "collegeId": "col-2",
+    "firstName": "bios",
+    "lastName": "grahp"
+  },
+  {
+    "id": "B1naJ3j5L",
+    "collegeId": "col-101",
+    "firstName": "Susan",
+    "lastName": "George"
+  },
+  {
+    "id": "rJg6BQefw",
+    "collegeId": "col-2",
+    "firstName": "bios",
+    "lastName": "graph123"
+  },
+  {
+    "id": "B1s7IXlGw",
+    "collegeId": "col-2",
+    "firstName": "bios",
+    "lastName": "graph123"
+  },
+  {
+    "id": "rJp7UmeMD",
+    "collegeId": "col-2",
+    "firstName": "bios",
+    "lastName": "graph123"
+  },
+  {
+    "id": "HJG3L7gMP",
+    "collegeId": "col-101",
+    "firstName": "Susan",
+    "lastName": "Georgea"
+  },
+  {
+    "id": "HJqHG3fMD",
+    "collegeId": "col-2",
+    "firstName": "test",
+    "lastName": "test"
+  },
+  {
+    "id": "HkesG3GGv",
+    "collegeId": "col-2",
+    "firstName": "test1",
+    "lastName": "tes1t"
+  }
+]
