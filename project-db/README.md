@@ -1,2 +1,2 @@
-# GraphQL-basics
-Simple GraphQL Server
+Change the database variables to the needed
+
