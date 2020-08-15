@@ -1,0 +1,23 @@
+[
+    {
+       "id": "col-101",
+       "name": "Cornell",
+       "location": "NewYork",
+       "rating":5.0
+    },
+    
+    {
+       "id": "col-102",
+       "name": "Columbia",
+       "location": "NewYork",
+       "rating":4.5
+    },
+
+    {
+        "id": "col-103",
+        "name": "Hogwarts",
+        "location": "Platform 9 3/4",
+        "rating":5
+     }
+ ]
+ 
