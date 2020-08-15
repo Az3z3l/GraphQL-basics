@@ -147,7 +147,7 @@ mutation NewPassword($iidd : passwordmaterial){
 
 
 ```graphql
-#SQLi via GraphQL in project-db
+#SQLi via GraphQL injection in project-db
 
 {
     checker(user:"", pwd:"\"||1=1-- -")
